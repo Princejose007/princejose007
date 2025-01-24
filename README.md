@@ -19,7 +19,7 @@
 <li>
  <b>NAME:</b> PRINCE JOSE</li>
 <li>
-<b>AGE:</b> 19
+<b>AGE:</b> 20
 </li>
 <li>
 <b>NATIONALITY:</b> INDIAN🇮🇳
@@ -31,10 +31,10 @@
 <b>EDUCATION:</b> CS STUDENT NCAS 
 </li>
 <li>
-<b>HOBIES:</b> CUBING,EXPLORING
+<b>HOBIES:</b> EXPLORING
 </li>
 <li>
-<b>LANGUAGES:</b> ENGLISH,MALAYALAM,HINDHI
+<b>LANGUAGES:</b> ENGLISH,MALAYALAM,TAMIL
 </li>
 <li>
 <b>OTHERS:</b> #</li>
