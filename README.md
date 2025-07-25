@@ -19,7 +19,7 @@
 <li>
  <b>NAME:</b> PRINCE JOSE</li>
 <li>
-<b>AGE:</b> 20
+<b>AGE:</b> 21
 </li>
 <li>
 <b>NATIONALITY:</b> INDIAN🇮🇳
