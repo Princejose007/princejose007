@@ -1,4 +1,4 @@
-<!-- Updated GitHub Profile README with Bright Icons -->
+<!-- GitHub Profile README -->
 
 <h1 align="center">Hi, I'm Prince 👋</h1>
 
@@ -37,12 +37,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.snapchat.com/add/prince_jose007?share_id=Vbex_QFppaw&locale=en-IN" title="Snapchat">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670284.png" width="40" alt="Snapchat" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://pin.it/2lABB3m" title="Pinterest">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111492.png" width="40" alt="Pinterest" />
+  <a href="https://www.linkedin.com/in/prince-jose-9474b3253" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:princejose2004@gmail.com" title="Gmail">
