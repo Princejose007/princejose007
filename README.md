@@ -1,61 +1,59 @@
-### Hi prince here
+<!-- PROFILE README START -->
 
-👋
+<h1 align="center">Hi, I'm Prince 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guys!+👋;This+is+Prince+Jose...;Welcome+to+my+GitHub!&center=true&size=25" />
+</p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.justinx3">
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=princejose" alt="visitor badge"/>
+</p>
 
+---
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guys!+👋;This+is+prince....;Welcome+to+my+repo!&center=true&size=30">
+## 👤 About Me
+
+<img src="YOUR_IMAGE_URL_HERE" width="220" align="right" style="border-radius: 15px; margin-left: 10px;" alt="Prince profile pic" />
+
+- 👨‍💻 **Name:** Prince Jose  
+- 🧑‍🎓 **Education:** BSc CS Student @ Nirmala College of Arts and Science  
+- 🌍 **Nationality:** Indian 🇮🇳  
+- 🧔 **Gender & Pronouns:** He/Him/Male 🪐  
+- 🎂 **Age:** 21  
+- 🎯 **Hobbies:** Exploring 🌄  
+- 🗣️ **Languages:** English, Malayalam, Tamil  
+
+---
+
+## 📫 Reach Me
+
+<p align="center">
+  <a href="https://www.instagram.com/_prince__jose__/" title="Instagram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="40" height="40" alt="Instagram"/>
   </a>
-</h1>
+  &nbsp;
+  <a href="http://api.whatsapp.com/send?phone=8590360275&text=Hi%20PRINCE" title="WhatsApp">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/whatsapp.svg" width="40" height="40" alt="WhatsApp"/>
+  </a>
+  &nbsp;
+  <a href="http://t.me/princejose007" title="Telegram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/telegram.svg" width="40" height="40" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.snapchat.com/add/prince_jose007?share_id=Vbex_QFppaw&locale=en-IN" title="Snapchat">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/snapchat.svg" width="40" height="40" alt="Snapchat"/>
+  </a>
+  &nbsp;
+  <a href="https://pin.it/2lABB3m" title="Pinterest">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/pinterest.svg" width="40" height="40" alt="Pinterest"/>
+  </a>
+  &nbsp;
+  <a href="mailto:princejose2004@gmail.com" title="Gmail">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
+  </a>
+</p>
 
- 
+---
 
-<div align="center">
-<img src="/images/.jpg" height="250" width="250" align="right">
-  </div>
-<li>
- <b>NAME:</b> PRINCE JOSE</li>
-<li>
-<b>AGE:</b> 21
-</li>
-<li>
-<b>NATIONALITY:</b> INDIAN🇮🇳
-</li>
-<li>
-<b>GENDER:</b> HE/HIS/MALE🪐
-</li>
-<li>
-<b>EDUCATION:</b> CS STUDENT NCAS 
-</li>
-<li>
-<b>HOBIES:</b> EXPLORING
-</li>
-<li>
-<b>LANGUAGES:</b> ENGLISH,MALAYALAM,TAMIL
-</li>
-<li>
-<b>OTHERS:</b> #</li>
-
-<br><br><br>
-
-
-<h1 align="center"><b>ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
-<br><br><br>
-<h5 align="center">
- <code><a href="https://www.instagram.com/_prince__jose__/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
-<code><a href="http://api.whatsapp.com/send?phone=8590360275&text=Hi%20PRINCE" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
-<br>
-<br>
-<code><a href="http://t.me/princejose007" title="telegram"><img width="60" src="images/tg.png"></a></code>          
-<code><a href="https://www.snapchat.com/add/prince_jose007?share_id=Vbex_QFppaw&locale=en-IN" title="snapchat"><img width="60" src="images/sp.png"></a></code>
-<br>
-<br>
-<code><a href="https://pin.it/2lABB3m" title="pintrest"><img width="60" src="images/pt.png"></a></code>          
-<code><a href="princejose2004@gmail.com" title="gmail"><img width="60" src="images/gm.png"></a></code>
-<br>
-<br>
-
-
+> 🚀 *Feel free to connect with me, collaborate, or just say Hi!*
