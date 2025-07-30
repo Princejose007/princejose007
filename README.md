@@ -44,6 +44,10 @@
   <a href="mailto:princejose2004@gmail.com" title="Gmail">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://huggingface.co/princejose007" title="Hugging Face">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face" />
+  </a>
 </p>
 
 ---
