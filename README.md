@@ -18,7 +18,7 @@
 - **Gender & Pronouns:** He / Him / Male  
 - **Education:** B.Sc Computer Science @ Nirmala College of Arts and Science  
 - **Languages:** English, Malayalam, Tamil  
-- **Hobbies:** Exploring new tech, building, learning
+- **Hobbies:** Exploring new tech, building, learning  
 
 ---
 
@@ -48,8 +48,14 @@
   <a href="https://huggingface.co/princejose007" title="Hugging Face">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/princejose007" title="Kaggle">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3521529-2945028.png" width="40" alt="Kaggle" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile. Feel free to explore my work, and reach out for collaboration or just to say hello!</i></p>
+<p align="center">
+  <i>Thanks for visiting my profile. Feel free to explore my work, and reach out for collaboration or just to say hello!</i>
+</p>
