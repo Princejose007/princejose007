@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-Backend Developer • AI & ML Enthusiast • MERN Developer • Lifelong Learner
+Python Django • AI & ML Enthusiast • Full Stack • Lifelong Learner 
 </h3>
 
 <p align="center">
@@ -25,7 +25,7 @@ Backend Developer • AI & ML Enthusiast • MERN Developer • Lifelong Learner
 
 💡 Passionate about
 
-- Backend Development
+- Full Stack Development
 - Artificial Intelligence
 - Machine Learning
 - Web Development
