@@ -1,61 +1,178 @@
-<!-- GitHub Profile README -->
+<!-- ========================================= -->
+<!--            GITHUB PROFILE README          -->
+<!-- ========================================= -->
 
-<h1 align="center">Hi, I'm Prince 👋</h1>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#4F46E5;">Prince Jose</span>
+</h1>
+
+<h3 align="center">
+Backend Developer • AI & ML Enthusiast • MERN Developer • Lifelong Learner
+</h3>
 
 <p align="center">
-  Passionate about technology, driven by curiosity, and always learning.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
-## 👤 About Me
+<img align="right" width="340" src="YOUR_PROFILE_IMAGE_URL" />
 
-<img src="YOUR_PROFILE_IMAGE_URL_HERE" width="220" align="right" style="border-radius: 15px; margin-left: 15px;" alt="Prince profile" />
+# 👨‍💻 About Me
 
-- **Name:** Prince Jose  
-- **Age:** 21  
-- **Nationality:** Indian 🇮🇳  
-- **Gender & Pronouns:** He / Him / Male  
-- **Education:** B.Sc Computer Science @ Nirmala College of Arts and Science  
-- **Languages:** English, Malayalam, Tamil  
-- **Hobbies:** Exploring new tech, building, learning  
+🎓 **B.Sc Computer Science**  
+📍 Kerala, India 🇮🇳
+
+💡 Passionate about
+
+- Backend Development
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+- Open Source
+
+🌱 Currently Learning
+
+- FastAPI
+- MERN Stack
+- AI Agents
+- System Design
+
+🎯 Goal
+
+> Build impactful software powered by AI.
 
 ---
 
-## 📫 Let's Connect
+# 🚀 Tech Stack
 
-<p align="left">
-  <a href="https://www.instagram.com/_prince__jose__/" title="Instagram">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://api.whatsapp.com/send?phone=8590360275&text=Hi%20PRINCE" title="WhatsApp">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" alt="WhatsApp" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://t.me/princejose007" title="Telegram">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prince-jose-9474b3253" title="LinkedIn">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:princejose2004@gmail.com" title="Gmail">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://huggingface.co/princejose007" title="Hugging Face">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/princejose007" title="Kaggle">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3521529-2945028.png" width="40" alt="Kaggle" />
-  </a>
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker,npm" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=princejose007&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princejose007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=princejose007&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=princejose007&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=princejose007&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/prince-jose-9474b3253">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:princejose2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/_prince__jose__/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://t.me/princejose007">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="48"/>
+</a>
+
+<a href="https://huggingface.co/princejose007">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
+</a>
+
+<a href="https://www.kaggle.com/princejose007">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3521529-2945028.png" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> **"It always seems impossible until it's done."**  
+> — Nelson Mandela
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=princejose007&label=Profile+Views&color=4F46E5&style=for-the-badge"/>
+
 </p>
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile. Feel free to explore my work, and reach out for collaboration or just to say hello!</i>
+⭐ If you like my work, consider giving a star to my repositories!
 </p>
